@@ -57,7 +57,7 @@ reply_date=Incluir data ao citar e-mail,1,1-Sim,0-Não
 
 line3.5=Excluindo e-mail, 11
 delete_warn=Pedir confirmação antes de excluir?,10,y-Sim,n-Não,Para arquivos mbox maiores que
-delete_mode=Ao excluir e-mail, 1,0-Excluir do arquivo de e-mail, 1-Mover para a pasta Lixeira
+delete_mode=Ao excluir e-mail, 1,0-Excluir e-mail,1-Mover para a pasta Lixeira
 show_delall=Mostrar botão para excluir toda a caixa de correio?,1,1-Sim,0-Não
 maildir_deleted=Ignorar mensagens sinalizadas como excluídas no Maildir?,1,1-Sim,0-Não
 
