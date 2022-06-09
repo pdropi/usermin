@@ -55,18 +55,6 @@ date_fmt=Formato de data na lista de e-mails,1,dma-DD/MM/AAAA,mda-MM/DD/AAAA,amd
 date_tz=Fuso horário para exibições de data, 3, padrão do sistema
 reply_date=Incluir data ao citar e-mail,1,1-Sim,0-Não
 
-line3=Pastas de correio, 11
-mailbox_recur=Tratar subdiretórios de caixa de correio como,1,1-Pastas,0-Subdiretórios
-default_folder=Arquivo de pasta padrão, 3, caixa de entrada
-folder_sort=Modo de classificação de pastas,4,0-Embutido&#44; então ~/mail&#44; então externo,1-Embutido&#44; então resto ordenado por nome, 2-Todos ordenados por nome
-sent_name=Nome da pasta de mensagens enviados,3,Automático
-drafts_name=Nome da pasta de rascunhos,3,automático
-trash_name=Nome da pasta Lixeira,3,Automático
-show_unread=Mostrar contagem de mensagens não lidas,1,2-Sim,1-Somente para IMAP,0-Não
-related_search=Procure pelo mesmo assunto ou remetente em,1,1-Todas as pastas,2-Todas as pastas locais,0-Pasta atual
-search_latest=Mensagens para pesquisar,10,-Todas as mensagens,Somente as mais recentes
-mailbox_dir=Diretório de caixas de correio no diretório inicial,0,30
-
 line3.5=Excluindo e-mail, 11
 delete_warn=Pedir confirmação antes de excluir?,10,y-Sim,n-Não,Para arquivos mbox maiores que
 delete_mode=Ao excluir e-mail, 1,0-Excluir do arquivo de e-mail, 1-Mover para a pasta Lixeira
