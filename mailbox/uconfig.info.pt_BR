@@ -45,11 +45,6 @@ force_subject=Ação se o assunto do e-mail enviado estiver ausente,10,-Não faz
 send_return=Depois de enviar e-mail&#44; show,1,1-Lista de e-mail,0-Página de e-mail enviado
 reply_self=Incluir endereço de e-mail próprio ao responder a todos?,1,1-Sim,0-Não
 
-line1.1=criptografia GPG, 11
-def_sign=Endereço de e-mail padrão para assinatura, 3, não assine por padrão
-def_crypt=Criptografar para destinatário por padrão?,1,1-Sim,0-Não
-self_crypt=Criptografe o e-mail com sua chave secreta também?,1,1-Sim,0-Não
-
 line1.5=Notificações de entrega, 11
 req_dsn=Solicitar notificações de status de leitura?,1,1-Sempre,2-Opcionalmente,0-Não
 send_dsn=Responder às notificações de status de leitura?,1,1-Automaticamente,2-Manualmente,0-Não
