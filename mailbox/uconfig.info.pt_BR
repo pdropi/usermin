@@ -42,7 +42,7 @@ bcc_to=Cco: mensagens enviadas para,0
 add_abook=Adicionar destinatários de e-mail ao catálogo de endereços?,1,1-Sim,0-Não
 real_expand=Procurar nomes reais ao enviar?,1,1-Sim,0-Não
 force_subject=Ação se o assunto do e-mail enviado estiver ausente,10,-Não fazer nada,erro-Exibir erro,Definir para
-send_return=Depois de enviar e-mail&#44; show,1,1-Lista de e-mail,0-Página de e-mail enviado
+send_return=Depois de enviar e-mail&#44; exibir,1,1-Lista de e-mail,0-Página de e-mail enviado
 reply_self=Incluir endereço de e-mail próprio ao responder a todos?,1,1-Sim,0-Não
 
 line1.5=Notificações de entrega, 11
